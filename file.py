@@ -3,3 +3,4 @@ name= "Imkong"
 print("Helle ",name)
 age=28
 print(age)
+add="cmd"
