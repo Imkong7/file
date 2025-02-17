@@ -7,3 +7,5 @@ def getTable(num):
     print(f'{num} x {i} = {result}')
     
 getTable(5)
+
+lists = ['apple', 'mango', 'banana']
