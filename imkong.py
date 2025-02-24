@@ -1,6 +1,8 @@
-def getAdd(a,b):
-    return a+b
+lists = ['apple', 'mango', 'banana', 'grapes']
+length = len(lists)
 
-def getSub(a,b):
-    return a-b
-
+def getFruits():
+    word = 'm'
+    for i in range(0,length):
+        if word == lists[i][0]:
+            print('This is lists')
