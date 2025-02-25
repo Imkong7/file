@@ -1,7 +1,7 @@
 """
 this is for git practice
 """
-name="Jannet"
+name="John"
 no_of_Lives=4
 no_of_Attempt=0
 
