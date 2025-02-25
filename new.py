@@ -9,3 +9,4 @@ def generateTable(num):
 generateTable(5)
 generateTable(7)
 generateTable(10)
+generateTable(112)
