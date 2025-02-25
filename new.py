@@ -7,3 +7,6 @@ def generateTable(num):
         print(f'{num} x {i} = {num*i}')
         
 generateTable(5)
+generateTable(7)
+generateTable(10)
+generateTable(112)
