@@ -9,3 +9,5 @@ def getFruits():
 
 def getName():
     print('I am getName')
+def getName():
+    print('I am getName')
