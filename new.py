@@ -14,3 +14,6 @@ generateTable(7)
 generateTable(10)
 generateTable(112)
 getSum(2,4)
+
+
+getSum(5,6,7)
