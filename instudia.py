@@ -9,3 +9,5 @@ def getTable(num):
 getTable(5)
 
 lists = ['apple', 'mango', 'banana']
+lists = ['deer', 'antelope', 'reindeer']
+lists = ['sparrow', 'crow', 'owl']
