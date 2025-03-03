@@ -11,3 +11,4 @@ getTable(5)
 lists = ['apple', 'mango', 'banana']
 lists = ['deer', 'antelope', 'reindeer']
 lists = ['sparrow', 'crow', 'owl']
+lists = ['sparrow', 'crow', 'crane']
