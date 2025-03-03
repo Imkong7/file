@@ -11,3 +11,11 @@ def getName():
     print('I am getName')
 def getSmae():
     print('I am getName')
+    
+def getAge():
+    print('i am 25 years old')
+    
+def getGender():
+    print('i am male')
+    
+    
