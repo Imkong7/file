@@ -17,5 +17,7 @@ def getAge():
     
 def getGender():
     print('i am male')
-    
+
+def getFirstName():
+    print('my name is michael')
     
